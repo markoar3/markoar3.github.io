@@ -1,0 +1,174 @@
+@font-face{
+    font-family: vb;
+    src: url("Fontovi/ValeriaBoldGrunge.ttf");
+}
+
+@font-face{
+    font-family: ab;
+    src: url("Fontovi/AwesomeBirds.ttf");
+}
+
+@font-face{
+    font-family: ad;
+    src: url("Fontovi/Adielle_PERSONAL_USE_ONLY.ttf");
+}
+
+body,html{
+    height: 100%;
+}
+
+#heder{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#slika{
+    position: absolute;
+    width: 100%;
+}
+
+
+.bg{
+   background-image: url("slike/fruska-gora-bg.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#logoPOC{
+   // width: 100px!important;
+    //height: 100px!important;
+}
+
+.center-md {
+    font-family: vb;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    font-size: 120px;
+    color: #cccccc;
+    font-weight: bold;
+    text-align: center!important;
+}
+
+.center-xs {
+    font-family: vb;
+    padding-top: 300px;
+    font-size: 60px;
+    color: #cccccc;
+    font-weight: bold;
+}
+
+
+nav-link{
+    margin: 5px;
+}
+
+#Onama{
+    margin-bottom: 0;
+    background-color: #e6ffff;
+}
+
+#Kontakt{
+    background-color: #f2f2f2;
+    margin-bottom: 0;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+#mape2, #mape1{
+    background-color: #f2f2f2;
+    padding: 0;
+}
+
+
+
+
+          /*Sve za E-PRODAVNICU*/
+
+.center2-md {
+    font-family: vb;
+    position: absolute;
+    bottom: 480px;
+    left: 430px;
+    font-size: 120px;
+    color: #cccccc;
+    font-weight: bold;
+    text-align: center!important;
+}
+
+.center2-xs {
+    padding-top: 150px;
+    font-family: vb;
+    font-size: 60px;
+    color: #cccccc;
+    font-weight: bold;
+}
+
+.card{
+    color: #94a73b;
+    background-color: #f2f2f2;
+    font-size: 20px;
+    padding: 20px 20px 20px 20px;
+    margin: 30px 10px 30px 10px;
+    text-align: center;
+}
+
+.slika{
+    width: 200px;
+    height: 200px;
+}
+
+.card-header{
+    background-color: #e3e39c;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.card-footer{
+    text-align: left;
+    background-color: #e3e39c;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.bg2{
+   background-image: url("slike/fruska-gora-bg.jpg");
+    height: 350px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn{
+    float: right;
+    background-color: #006622;
+    color: white;
+}
+
+.btn:hover{
+    background-color: #28a745;
+}
+
+#slikaKolica{
+    width: 30px;
+    height: 30px;
+}
+
+#futerPocetna{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
